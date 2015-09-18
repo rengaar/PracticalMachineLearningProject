@@ -1,5 +1,7 @@
 # PracticalMachineLearningProject
 ---
+To run the code, please use Project.R file.
+---
 ### Loading packages and Getting data
 ```{r, eval=F}
 getwd()
