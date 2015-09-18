@@ -62,7 +62,7 @@ misclass
 ######Fold 4: 0.3384302;
 ######Fold 5: 0.3386850;
 
-The algorithm is not able to classify C, D classes at all. The rest is classified properly.
+The algorithm is not able to classify C, D classes at all. The rest is classified properly. The algorithm seems to have about 34 % out of sample error.
 
 
 ### Random forest
@@ -88,7 +88,7 @@ Overall Statistics
     No Information Rate : 0.2845     
     P-Value [Acc > NIR] : < 2.2e-16 
 
-The algorithm classified all observations correctly, which is weird...
+The algorithm classified all observations correctly, which is weird... Indicating no out of sample error.
 
 ### Predicting on the testing set
 Using the 5th fold as an evaluation set. Therefore predicting based on folds 1-4.
