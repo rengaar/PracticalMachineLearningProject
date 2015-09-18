@@ -1,6 +1,6 @@
 # PracticalMachineLearningProject
 ---
-To run the code, please use Project.R file.
+## To run the code, please use project.R file.
 ---
 ### Loading packages and Getting data
 ```{r, eval=F}
