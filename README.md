@@ -1,9 +1,5 @@
 # PracticalMachineLearningProject
 ---
-title: "Project Practical Machine Learning"
-author: "by rengaar"
-output: html_document
----
 ### Loading packages and Getting data
 ```{r, eval=F}
 getwd()
